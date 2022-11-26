@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">TEST</string>
+    <string name="name">Тест на 10 вопросов </string>
+    <string name="question1">1.Когда отменили крепостное право?</string>
+    <string-array name="question1_answers1">
+        <item>1896</item>
+        <item>1906</item>
+        <item>1869</item>
+        <item>1861</item>
+    </string-array>
+
+    <string name="question2">2.Год крещения Руси?</string>
+    <string-array name="question2_answers2">
+        <item>998</item>
+        <item>899</item>
+        <item>988</item>
+        <item>908</item>
+    </string-array>
+
+    <string name="question3">3.Кто правил раньше?</string>
+    <string-array name="question3_answers3">
+        <item>Петр III</item>
+        <item>Екатерина II</item>
+        <item>Елизавета I</item>
+        <item>Александр I</item>
+    </string-array>
+
+    <string name="question4">4.Когда сбросили атомную бомбу на Хиросиму?</string>
+    <string-array name="question4_answers4">
+        <item>20 января 1949</item>
+        <item>22 июня 1942</item>
+        <item>1 сентября 1939</item>
+        <item>6 августа 1945</item>
+    </string-array>
+
+    <string name="question5">5.Год создания атомной бомбы в СССР? </string>
+    <string-array name="question5_answers5">
+        <item>1949</item>
+        <item>1942</item>
+        <item>1939</item>
+        <item>1945</item>
+    </string-array>
+
+    <string name="question6">6.Год распада СССР?</string>
+    <string-array name="question6_answers6">
+        <item>1989</item>
+        <item>1990</item>
+        <item>1991</item>
+        <item>1992</item>
+    </string-array>
+
+    <string name="question7">7.Почему Гитлер застрелился? </string>
+    <string-array name="question7_answers7">
+        <item>Причина не известна</item>
+        <item>Проиграл в русскую рулетку</item>
+        <item>Он в Марокко</item>
+        <item>Его убили часы-трансформер</item>
+    </string-array>
+
+    <string name="question8">8.Кто составил «Словарь выпивохи»?</string>
+    <string-array name="question8_answers8">
+        <item>Леонардо да Винчи</item>
+        <item>Бенджамин Франклин</item>
+        <item>Обэмэ</item>
+        <item>Шайхиев Алмаз</item>
+    </string-array>
+
+    <string name="question9">9.Что произошло 9(22) 1905?</string>
+    <string-array name="question9_answers9">
+        <item>День рождение Генри Фонда</item>
+        <item>Восстание негров</item>
+        <item>Кровавое воскресенье</item>
+        <item>Ничего</item>
+    </string-array>
+
+    <string name="question10">10.По какой причине Билл Гейтс ушел из Microsoft?</string>
+    <string-array name="question10_answers10">
+        <item>Хотел больше свободного времени, и помочь детям</item>
+        <item>Потому что бездельник</item>
+        <item>Поймал депрессию</item>
+        <item>Восстание бурят</item>
+    </string-array>
+    <string name="check_name">Отправить результат</string>
+
+</resources>
